@@ -235,3 +235,12 @@ class MainPage(base_page.BasePage):
             "The element is not present"
         print(f"{inspect.currentframe().f_code.co_name} - OK")
 
+
+
+
+
+
+
+
+
+
